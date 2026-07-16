@@ -1,0 +1,16 @@
+.env
+.env.local
+*.pem
+*.pkcs12
+
+.DS_Store
+Thumbs.db
+
+*.log
+.eslintcache
+.cache/
+
+.vscode/
+.idea/
+*.suo
+*.ntvs*
